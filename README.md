@@ -1,4 +1,4 @@
-# sql-Real-Time-Order-to-Inventory-Reconciliation-Analytics-System# 📦 Project: Real-Time Order-to-Inventory Reconciliation & Analytics System
+📦 Project: Real-Time Order-to-Inventory Reconciliation & Analytics System
 
 ### 🔗 A production-grade, real-time PostgreSQL SQL-based ETL pipeline to track, reconcile, and analyze orders and inventory with business-critical logic, automation-ready architecture, and advanced analytics capabilities.
 
