@@ -136,7 +136,7 @@ etl_order_inventory_project/
 ## 👤 Author
 
 **Arun Naik**  
-🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/arun-naik-527443163/)) | 🌐 [Portfolio](https://yourportfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/arun-naik-527443163/) | 🌐 [Portfolio](https://yourportfolio.com)
 
 ---
 
